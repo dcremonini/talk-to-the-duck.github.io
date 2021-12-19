@@ -1,1 +1,2 @@
-window.viewerOptions = {};
+window.viewerOptions = {
+};

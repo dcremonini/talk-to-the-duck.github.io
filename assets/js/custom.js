@@ -1,4 +1,1 @@
-/**
- * Create a file "assets/js/custom.js" to customize JS.
- * PLEASE DO NOT MODIFY THIS FILE DIRECTLY.
- **/
+console.log("Message from assets/js/custom.js");
