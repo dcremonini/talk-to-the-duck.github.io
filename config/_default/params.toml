@@ -9,9 +9,9 @@ keywords = "Hugo, Bootstrap, Blog Theme"
 # metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # metaRobots = "" # disable Meta Tag "robots"
 
-# logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
+logo = "images/ttd-logo.webp" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
-brand = "BOOTSTRAP"
+brand = "Talk To The Duck"
 
 palette = "blue" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
