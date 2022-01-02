@@ -24,7 +24,7 @@ The [FAQ]({{< ref "/faq" >}}) page is a collection of frequently asked questions
 
 We need to create a page called `faq/index.md` in the `content` directory.
 
-```toml
+```text
 +++
 title = "Frequently Asked Questions"
 layout = "faq"
@@ -41,7 +41,7 @@ data
     /faq
       foo.json
       bar.json
-  /zh-cn
+  /fr
     /faq
       foo.json
       bar.json
